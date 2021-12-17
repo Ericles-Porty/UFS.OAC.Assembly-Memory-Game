@@ -1,4 +1,4 @@
-***** Para executar corretamente o programa, siga os passos abaixo: ************
+# Para executar corretamente o programa, siga os passos abaixo: 
 
 1 - Acesse o diretório \bin\Debug\net6.0-windows\
 
@@ -10,4 +10,4 @@
 
 
 
-***** Agradecemos a compreensão :) **********
+## Agradecemos a compreensão :) 
