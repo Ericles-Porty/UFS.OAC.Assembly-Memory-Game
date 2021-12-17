@@ -1,0 +1,51 @@
+C:\Users\Ericles\source\repos\Memory\bin\Debug\net6.0-windows\Memory.exe
+C:\Users\Ericles\source\repos\Memory\bin\Debug\net6.0-windows\Memory.deps.json
+C:\Users\Ericles\source\repos\Memory\bin\Debug\net6.0-windows\Memory.runtimeconfig.json
+C:\Users\Ericles\source\repos\Memory\bin\Debug\net6.0-windows\Memory.dll
+C:\Users\Ericles\source\repos\Memory\bin\Debug\net6.0-windows\ref\Memory.dll
+C:\Users\Ericles\source\repos\Memory\bin\Debug\net6.0-windows\Memory.pdb
+C:\Users\Ericles\source\repos\Memory\obj\Debug\net6.0-windows\Memory.csproj.AssemblyReference.cache
+C:\Users\Ericles\source\repos\Memory\obj\Debug\net6.0-windows\Memory.csproj.GenerateResource.cache
+C:\Users\Ericles\source\repos\Memory\obj\Debug\net6.0-windows\Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ericles\source\repos\Memory\obj\Debug\net6.0-windows\Memory.AssemblyInfoInputs.cache
+C:\Users\Ericles\source\repos\Memory\obj\Debug\net6.0-windows\Memory.AssemblyInfo.cs
+C:\Users\Ericles\source\repos\Memory\obj\Debug\net6.0-windows\Memory.csproj.CoreCompileInputs.cache
+C:\Users\Ericles\source\repos\Memory\obj\Debug\net6.0-windows\Memory.dll
+C:\Users\Ericles\source\repos\Memory\obj\Debug\net6.0-windows\ref\Memory.dll
+C:\Users\Ericles\source\repos\Memory\obj\Debug\net6.0-windows\Memory.pdb
+C:\Users\Ericles\source\repos\Memory\obj\Debug\net6.0-windows\Memory.genruntimeconfig.cache
+C:\Users\Ericles\source\repos\Memory\obj\Debug\net6.0-windows\Memory.Tela.resources
+C:\Users\kendy\Downloads\Memory (1)\Memory\bin\Debug\net6.0-windows\Memory.exe
+C:\Users\kendy\Downloads\Memory (1)\Memory\bin\Debug\net6.0-windows\Memory.deps.json
+C:\Users\kendy\Downloads\Memory (1)\Memory\bin\Debug\net6.0-windows\Memory.runtimeconfig.json
+C:\Users\kendy\Downloads\Memory (1)\Memory\bin\Debug\net6.0-windows\Memory.dll
+C:\Users\kendy\Downloads\Memory (1)\Memory\bin\Debug\net6.0-windows\ref\Memory.dll
+C:\Users\kendy\Downloads\Memory (1)\Memory\bin\Debug\net6.0-windows\Memory.pdb
+C:\Users\kendy\Downloads\Memory (1)\Memory\obj\Debug\net6.0-windows\Memory.csproj.AssemblyReference.cache
+C:\Users\kendy\Downloads\Memory (1)\Memory\obj\Debug\net6.0-windows\Memory.Tela.resources
+C:\Users\kendy\Downloads\Memory (1)\Memory\obj\Debug\net6.0-windows\Memory.csproj.GenerateResource.cache
+C:\Users\kendy\Downloads\Memory (1)\Memory\obj\Debug\net6.0-windows\Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kendy\Downloads\Memory (1)\Memory\obj\Debug\net6.0-windows\Memory.AssemblyInfoInputs.cache
+C:\Users\kendy\Downloads\Memory (1)\Memory\obj\Debug\net6.0-windows\Memory.AssemblyInfo.cs
+C:\Users\kendy\Downloads\Memory (1)\Memory\obj\Debug\net6.0-windows\Memory.csproj.CoreCompileInputs.cache
+C:\Users\kendy\Downloads\Memory (1)\Memory\obj\Debug\net6.0-windows\Memory.dll
+C:\Users\kendy\Downloads\Memory (1)\Memory\obj\Debug\net6.0-windows\ref\Memory.dll
+C:\Users\kendy\Downloads\Memory (1)\Memory\obj\Debug\net6.0-windows\Memory.pdb
+C:\Users\kendy\Downloads\Memory (1)\Memory\obj\Debug\net6.0-windows\Memory.genruntimeconfig.cache
+C:\Users\Ericles\Desktop\Memory\bin\Debug\net6.0-windows\Memory.exe
+C:\Users\Ericles\Desktop\Memory\bin\Debug\net6.0-windows\Memory.deps.json
+C:\Users\Ericles\Desktop\Memory\bin\Debug\net6.0-windows\Memory.runtimeconfig.json
+C:\Users\Ericles\Desktop\Memory\bin\Debug\net6.0-windows\Memory.dll
+C:\Users\Ericles\Desktop\Memory\bin\Debug\net6.0-windows\ref\Memory.dll
+C:\Users\Ericles\Desktop\Memory\bin\Debug\net6.0-windows\Memory.pdb
+C:\Users\Ericles\Desktop\Memory\obj\Debug\net6.0-windows\Memory.csproj.AssemblyReference.cache
+C:\Users\Ericles\Desktop\Memory\obj\Debug\net6.0-windows\Memory.Tela.resources
+C:\Users\Ericles\Desktop\Memory\obj\Debug\net6.0-windows\Memory.csproj.GenerateResource.cache
+C:\Users\Ericles\Desktop\Memory\obj\Debug\net6.0-windows\Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ericles\Desktop\Memory\obj\Debug\net6.0-windows\Memory.AssemblyInfoInputs.cache
+C:\Users\Ericles\Desktop\Memory\obj\Debug\net6.0-windows\Memory.AssemblyInfo.cs
+C:\Users\Ericles\Desktop\Memory\obj\Debug\net6.0-windows\Memory.csproj.CoreCompileInputs.cache
+C:\Users\Ericles\Desktop\Memory\obj\Debug\net6.0-windows\Memory.dll
+C:\Users\Ericles\Desktop\Memory\obj\Debug\net6.0-windows\ref\Memory.dll
+C:\Users\Ericles\Desktop\Memory\obj\Debug\net6.0-windows\Memory.pdb
+C:\Users\Ericles\Desktop\Memory\obj\Debug\net6.0-windows\Memory.genruntimeconfig.cache

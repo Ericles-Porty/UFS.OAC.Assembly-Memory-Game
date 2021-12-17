@@ -1,0 +1,1 @@
+java -jar Mars45.jar main.asm
